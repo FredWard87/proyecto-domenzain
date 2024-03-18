@@ -7,7 +7,8 @@
 ## Objetivo general.
 
 ## Tabla de software a utilizar
-
+|Id|Software|Version|Tipo|
+|-|-|-|-|
 
 ## Prototipo
 
