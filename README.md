@@ -9,10 +9,10 @@
 ## Tabla de software a utilizar
 |Id|Software|Version|Tipo|
 |-|-|-|-|
-||ArduinoIDE|2.2.1|Software libre|
-||Mysql|||
-||Node-Red|||
-||Mosquitto|||
+|1|ArduinoIDE|2.2.1|Software libre|
+|2|Mysql|||
+|3|Node-Red|||
+|4|Mosquitto|||
 ## Prototipo
 
 ## Diagrama
