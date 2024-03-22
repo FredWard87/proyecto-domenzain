@@ -5,7 +5,12 @@
 - Schoenstantt Andrea Palomares Barrientos
 - Alan Omar Venegas Cadena
 ## Objetivo general.
-
+Nuestro proyecto de IoT esta centrado en un sensor de humo, que consiste en diseñar, implementar y deplegar un sistema que pueda 
+detectar la presencia de humo, evaluar su calidad y activar medidas de seguridad pertenientes en caso de detección de humo o 
+condiciones peligrosas. 
+Desarrollaremos un dispositivo de detección de humo y su calidad usando sensores especiales, queremos que tal dispositivo pueda
+responder de manera precisa y rapidamente en cualquier indicio de humo, incluso en incendios, utilizando tecnologías y software 
+para alertar a las personas cercanas.
 ## Tabla de software a utilizar
 |Id|Software|Version|Tipo|
 |-|-|-|-|
